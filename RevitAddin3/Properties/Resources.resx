@@ -153,11 +153,11 @@
     <comment>Help topic id.</comment>
   </data>
   <data name="_Ribbon_panel_name" xml:space="preserve">
-    <value>Ribbon panel</value>
+    <value>Test_panel</value>
     <comment>Ribbon panel name.</comment>
   </data>
   <data name="_Ribbon_tab_name" xml:space="preserve">
-    <value>RevitAddin3</value>
+    <value>Test_tab</value>
     <comment>Ribbon tab name.</comment>
   </data>
   <data name="_auto_location" xml:space="preserve">
