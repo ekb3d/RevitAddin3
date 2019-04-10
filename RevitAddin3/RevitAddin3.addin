@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- RevitAddin3
+     https://revit-addins.blogspot.ru
+     © Bushman, 2019
+	 
+	 The manifest file. -->
+<RevitAddIns>
+  <AddIn Type="Application">
+  	<AddInId>8f1d4eb5-6762-478e-807a-4a34dcfcba1c</AddInId>
+    <Name>RevitAddin3</Name>
+    <Assembly>RevitAddin3/RevitAddin3.dll</Assembly>
+    <FullClassName>Bushman.RevitAddin3.ExternalApplication</FullClassName>
+    <VendorId>ru.blogspot.revit-addins</VendorId>
+    <VendorDescription>Bushman, https://revit-addins.blogspot.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
